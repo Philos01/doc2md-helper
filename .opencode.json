@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "doc2md-helper": {
+      "command": "doc2md-helper",
+      "args": [
+        "serve"
+      ],
+      "cwd": "C:\\Users\\24117\\Desktop\\mcp-document-converter",
+      "type": "stdio",
+      "env": []
+    }
+  }
+}

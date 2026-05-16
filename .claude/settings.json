@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'doc2md-helper ready to convert documents!'",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

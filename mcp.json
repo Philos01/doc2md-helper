@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "doc2md-helper": {
+      "command": "doc2md-helper",
+      "args": ["serve"]
+    }
+  }
+}

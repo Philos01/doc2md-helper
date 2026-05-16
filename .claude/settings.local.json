@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip show *)",
+      "Bash(pip install *)",
+      "Bash(timeout 8 doc2md-helper serve)",
+      "Bash(doc2md-helper *)",
+      "mcp__doc2md-helper__convert_pdf_with_marker"
+    ]
+  }
+}
